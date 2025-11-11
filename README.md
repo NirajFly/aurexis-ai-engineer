@@ -1,5 +1,4 @@
 # aurexis-ai-engineer
-AI Engineer Take Home Assignment
 
 # AI Engineer Take-Home Assignment: Autonomous Task Planner & Executor
 
