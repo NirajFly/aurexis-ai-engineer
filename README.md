@@ -2,7 +2,6 @@
 
 # AI Engineer Take-Home Assignment: Autonomous Task Planner & Executor
 
-> Updated for 2025. Uses **Next.js 16 (App Router)** and the **AI SDK** (formerly "Vercel AI SDK").
 
 ## Overview
 Build an autonomous AI agent system that can break down complex user goals into actionable steps, execute them using various tools, and provide real-time progress updates. This project tests your ability to work with AI agents, tool orchestration, streaming responses, and state management.
